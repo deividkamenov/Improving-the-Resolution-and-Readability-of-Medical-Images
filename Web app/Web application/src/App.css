@@ -1,0 +1,29 @@
+.content {
+  padding: 1rem;
+  padding-top: 2rem;
+  background: #fff;
+}
+.header {
+  color: #fff;
+  background: #3a8fdf;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.inputImageBox, .controlsBox, .outputImageBox {
+  text-align: center;
+}
+.controlsBox > Button {
+  margin: 1rem 0;
+  display: block;
+  width: 100%;
+}
+.edgePreserving span {
+  margin-right: 1rem;
+}
+.edgePreserving {
+  margin: 1rem 0;
+  margin-bottom: 2rem;
+}
+.outputImage {
+  padding: 2rem;
+}

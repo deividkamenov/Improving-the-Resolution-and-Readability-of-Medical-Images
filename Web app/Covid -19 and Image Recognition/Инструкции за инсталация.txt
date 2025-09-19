@@ -1,0 +1,4 @@
+1. Инсталиране на nodejs
+2. npm install
+3. npm install -g ts-node
+4. ts-node index.ts
